@@ -2,8 +2,7 @@
 layout: post
 title: "Versionamiento Semántico."
 description: ¿Qué es el versionamiento semántico y por qué es importante?.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
-'http://res.cloudinary.com/ernestoaguaysol/image/upload/v1508773455/semantic-version_lnrorp.png'
+image: 'http://res.cloudinary.com/ernestoaguaysol/image/upload/v1508773455/semantic-version_lnrorp.png'
 category: 'developer'
 tags:
 - semantic version
