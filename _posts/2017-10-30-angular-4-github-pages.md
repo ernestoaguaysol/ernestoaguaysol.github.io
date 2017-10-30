@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Publicar proyecto Angular 4 en GitHub Pages"
+date: 2017-10-30
 description: Como haceer un deploy utilizando github pages y angular-cli-ghpages.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807658/barney-stinson_eqt7kc.jpg'
 category: 'angular'
