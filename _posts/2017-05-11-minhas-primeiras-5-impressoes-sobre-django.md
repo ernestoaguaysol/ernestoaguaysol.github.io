@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Minhas primeiras 5 impressões sobre Django"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504809708/django_g7djdj.jpg'
-category: 'django'
+title: "JSON"
+description: Que es json y como es su sintaxis.
+image: 'http://res.cloudinary.com/ernestoaguaysol/image/upload/c_scale,h_399,w_760/v1509576540/Json_pugghj.jpg'
+category: 'developer'
 tags:
-- django
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- json
+- notación
+twitter_text: Que es json y como es su sintaxis.
+introduction: Que es json y como es su sintaxis.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Que es JSON?
+* JSON significa J ava S cript O bject N otation
+* JSON es un formato liviano de intercambio de datos
+* JSON es "autodescriptivo" y fácil de entender
+* JSON es independiente del lenguaje.
+
+> JSON usa la sintaxis de JavaScript, pero el formato JSON es solo texto.  El texto se puede leer y usar como un formato de datos por cualquier lenguaje de programación.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
